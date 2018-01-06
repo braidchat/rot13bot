@@ -1,3 +1,4 @@
 rot13bot
 ========
-README text here.
+
+Very simple braidbot that replies to messages sent to it with `rot13(message)`
